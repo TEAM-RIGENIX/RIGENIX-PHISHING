@@ -5,14 +5,7 @@
 ##   Version 	: 	5.7
 ##   Github: https://github.com/TEAM-RIGENIX/Rigenix90
 #Facebook: https://www.facebook.com/105628935136679/posts/105631501803089/?app=fbl
-
-
-Credit and Thanks to: https://github.com/htr-tech/zphisher
-
-
 ## If you Copy Then Give the credits :)
-
-
 
 ##                   GNU GENERAL PUBLIC LICENSE
 ##                    Version 3, 29 June 2007
@@ -83,9 +76,8 @@ Credit and Thanks to: https://github.com/htr-tech/zphisher
 ##
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
-##
-##     
-##
+
+
 
 
 ## ANSI colors (FG & BG)
