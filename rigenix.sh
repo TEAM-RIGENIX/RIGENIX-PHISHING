@@ -6,7 +6,7 @@
 ##   Github: https://github.com/TEAM-RIGENIX/Rigenix90
 #Facebook: https://www.facebook.com/105628935136679/posts/105631501803089/?app=fbl
 ## If you Copy Then Give the credits :)
-
+## rigenix
 ##                   GNU GENERAL PUBLIC LICENSE
 ##                    Version 3, 29 June 2007
 ##
